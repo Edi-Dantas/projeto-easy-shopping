@@ -9,11 +9,11 @@
 
 <br>
 
- <p>- HTML</p>
- <p>-CSS</p>
+ <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)" />
+ <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
  <p>E também é responsivo, compativél com dispositivos móveis, desktop</p>
  
-
+ 
 <img src="https://github.com/Edi-Dantas/projeto-easy-shopping/blob/master/img/easy-descktop.png?raw=true" width="500px" /> 
 
 
