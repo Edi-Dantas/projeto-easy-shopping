@@ -9,4 +9,4 @@
 
 <br>
 
-<img src="https://github.com/Edi-Dantas/projeto-easy-shopping/blob/master/img/easy-cell.png?raw=true" />
+<img src="https://github.com/Edi-Dantas/projeto-easy-shopping/blob/master/img/easy-cell.png?raw=true" width:200px />
