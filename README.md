@@ -13,9 +13,10 @@
  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
  <p>E também é responsivo, compativél com dispositivos móveis, desktop</p>
  
- 
+   <div style="display: flex;">
 <img src="https://github.com/Edi-Dantas/projeto-easy-shopping/blob/master/img/easy-descktop.png?raw=true" width="500px" /> 
 
 
 <img src="https://github.com/Edi-Dantas/projeto-easy-shopping/blob/master/img/easy-cell.png?raw=true" width="200px" />
 
+</div>
